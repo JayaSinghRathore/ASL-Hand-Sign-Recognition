@@ -19,3 +19,10 @@ For our Webcam implementation (Beta):
 python3 webcam_demo.py
 ```
 
+## My Role and Contributions
+
+This ASL Hand Sign Recognition project was developed as a team project. My main contributions included:
+- Implemented and trained the deep learning model using the Kaggle ASL Hand Sign Dataset.
+- Worked on data preprocessing and experiments to improve accuracy.
+- Helped develop and debug the real-time webcam demo using OpenCV.
+- Contributed to the project report and analysis of results.
